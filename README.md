@@ -27,7 +27,7 @@
     </style>
 </head>
 <body>
-    <h1>KosugeDev</h1>
+    <h1>KosugeDevvv</h1>
     <p>Independent Mobile Game & Systems Developer</p>
     <a href="https://play.google.com/store/apps/dev?id=5376851216452922852">Google Play Store</a>
 </body>
